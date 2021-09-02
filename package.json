@@ -1,5 +1,5 @@
 {
-  "name": "sphinx-sdk",
+  "name": "sphinxsjc-sdk",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications.",
   "main": "dist/index.js",
